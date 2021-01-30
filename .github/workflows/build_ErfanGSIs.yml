@@ -55,7 +55,7 @@ jobs:
        
        - name: 7z GSI  
          run: |
-              sudo apt-get instaall p7zip
+               
               mkdir final
                7z a -t7z -r  final/GSI.7z /home/runner/work/actions_build_ErfanGSIs/actions_build_ErfanGSIs/ErfanGSIs/output/
        
