@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210203093322/PCCM00_11_OTA_1310_all_hwxfFfQFKxT4.ozip
-  ROM_NAME: ColorOS 
+  ROM_URL: https://ip103542904.mobgslb.tbcache.com/Firmware/Flyme/meizu17/8.2.0.0/cn/20210125181845/97b4c11e/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=013ed655ca8b5749d155598b31dfbaaaad4cd2334b4ef407&ali_redirect_ex_tmining_ts=1613628656&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
